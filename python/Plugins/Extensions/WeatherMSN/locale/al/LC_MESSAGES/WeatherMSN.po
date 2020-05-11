@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeatherMSN\n"
 "POT-Creation-Date: 2020-02-13 18:34+0300\n"
-"PO-Revision-Date: 2020-02-29 11:43+0100\n"
-"Last-Translator: maggy <mike-andesson@web.de>\n"
+"PO-Revision-Date: 2020-03-03 20:29+0100\n"
+"Last-Translator: maggy/kqiqi1 <mike-andesson@web.de>\n"
 "Language-Team: <Maggy>\n"
-"Language: de_DE\n"
+"Language: al_AL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -49,38 +49,38 @@ msgid "%s km/h"
 msgstr "%s km/h"
 
 msgid "New moon"
-msgstr "Neumond"
+msgstr "Hëna e re"
 
 msgid "Waxing cresent"
-msgstr "Zunehmender Halbmond"
+msgstr "Lulëzim gjysmëhënës"
 
 msgid "Waning crescent"
-msgstr "Wankender Halbmond"
+msgstr "Gjysmëhëna e mprehtë"
 
 msgid "First quarter"
-msgstr "Erstes Viertel"
+msgstr "Tremujori i parë"
 
 msgid "Last quarter"
-msgstr "Letztes Viertel"
+msgstr "Tremujori i fundit"
 
 msgid "Waxing gibbous"
-msgstr "Zunehmender Mond"
+msgstr "Depërtimi i hënës"
 
 msgid "Waning gibbous"
-msgstr "Abnehmender Gibbous"
+msgstr "Ulje e gibbous"
 
 msgid "Full moon"
-msgstr "Vollmond"
+msgstr "Hëna e plot"
 
 #, python-format
 msgid "%s km"
 msgstr "%s km"
 
 msgid "no"
-msgstr "Nein"
+msgstr "jo"
 
 msgid "yes"
-msgstr "Ja"
+msgstr "po"
 
 msgid "m/s"
 msgstr "m/s"
@@ -95,208 +95,205 @@ msgid "mp/h"
 msgstr "mp/h"
 
 msgid "knots"
-msgstr "Knoten"
+msgstr "ball"
 
 msgid "Celsius"
-msgstr "Celsius"
+msgstr "Celcius"
 
 msgid "Fahrenheit"
-msgstr "Fahrenheit"
+msgstr "Gradë Fahrenheit"
 
 msgid "Weather MSN"
 msgstr "Weather MSN"
 
 msgid "Julian day:"
-msgstr "Julianischer Tag:"
+msgstr "Dit Xhuliane:"
 
 msgid "Sun rise:"
-msgstr "Sonnenaufgang:"
+msgstr "Agimi i Diellit:"
 
 msgid "Sun set:"
-msgstr "Sonneuntergang:"
+msgstr "Prarimi i Diellit:"
 
 msgid "Solstice:"
-msgstr "Sonnenwende:"
+msgstr "Ndryshimi i Diellit:"
 
 msgid "Mercury rise:"
-msgstr "Merkuraufgang:"
+msgstr "Agimi i Merkurit:"
 
 msgid "Mercury set:"
-msgstr "Merkuruntergang:"
+msgstr "Prarimi i Merkurit:"
 
 msgid "Mercury culmination:"
-msgstr "Merkur Kulmination:"
+msgstr "Kulminacioni i Merkurit:"
 
 msgid "Mercury azimuth:"
-msgstr "Merkur Azimut:"
+msgstr "Mërkuri Azimuth:"
 
 msgid "Venus rise:"
-msgstr "Venusaufgang:"
+msgstr "Agimi i Venusit:"
 
 msgid "Venus set:"
-msgstr "Venusuntergang:"
+msgstr "Prarimi i Venusit:"
 
 msgid "Venus culmination:"
-msgstr "Venus Kulmination:"
+msgstr "Kulminacioni i Venusit:"
 
 msgid "Venus azimuth:"
-msgstr "Venus Azimut:"
+msgstr "Venus Azimuth:"
 
 msgid "Mars rise:"
-msgstr "Marsaufgang:"
+msgstr "Prarimi i Marsit:"
 
 msgid "Mars set:"
-msgstr "Marsuntergang:"
+msgstr "Agimi i Merkurit:"
 
 msgid "Mars culmination:"
-msgstr "Mars Kulmination:"
+msgstr "Kulminacioni i Marsit:"
 
 msgid "Mars azimuth:"
-msgstr "Mars Azimut:"
+msgstr "Venus Azimuth:"
 
 msgid "Jupiter rise:"
-msgstr "Jupiteraufgang:"
+msgstr "Agimi i Jupiterit:"
 
 msgid "Jupiter set:"
-msgstr "Jupiteruntergang:"
+msgstr "Prarimi i Jupiterit:"
 
 msgid "Jupiter culmination:"
-msgstr "Jupiter Kulmination:"
+msgstr "Kulminacioni i Jupiterit:"
 
 msgid "Jupiter azimuth:"
 msgstr "Jupiter Azimut:"
 
 msgid "Saturn rise:"
-msgstr "Saturnaufgang:"
+msgstr "Agimi i Zaturnit:"
 
 msgid "Saturn set:"
-msgstr "Saturnuntergang:"
+msgstr "Prarimi i Zaturnit:"
 
 msgid "Saturn culmination:"
-msgstr "Saturn Kulmination:"
+msgstr "Kulminacioni i Zaturnit:"
 
 msgid "Saturn azimuth:"
-msgstr "Saturn Azimut:"
+msgstr "Zaturni Azimut:"
 
 msgid "Uranus rise:"
-msgstr "Uranusaufgang:"
+msgstr "Agimi i Uranit:"
 
 msgid "Uranus set:"
-msgstr "Uranusuntergang:"
+msgstr "Prarimi i Uranit:"
 
 msgid "Uranus culmination:"
-msgstr "Uranus Kulmination:"
+msgstr "Kulminacioni i Uranit:"
 
 msgid "Uranus azimuth:"
-msgstr "Uranus Azimut:"
+msgstr "Uran Azimut:"
 
 msgid "Neptune rise:"
-msgstr "Neptunaufgang:"
+msgstr "Agimi i Neptunit:"
 
 msgid "Neptune set:"
-msgstr "Neptununtergang:"
+msgstr "Prarimi i Neptunit:"
 
 msgid "Neptune culmination:"
-msgstr "Neptun Kulmination:"
+msgstr "Kulminacioni i Neptunit:"
 
 msgid "Neptune azimuth:"
 msgstr "Neptun Azimut:"
 
 msgid "Moon distance:"
-msgstr "Monddistanz:"
+msgstr "Distanca e Hënës:"
 
 msgid "Moon culmination:"
-msgstr "Mond Kulmination:"
+msgstr "Kulminacioni i Hënës:"
 
 msgid "Moon azimutht:"
-msgstr "Mond Azimut:"
+msgstr "Hëna Azimut:"
 
 msgid "Moon rise:"
-msgstr "Mondaufgang:"
+msgstr "Agimi i Hënës:"
 
 msgid "Moon set:"
-msgstr "Monduntergang:"
+msgstr "Prarimi e Hënës:"
 
 msgid "Moon light:"
-msgstr "Mondlicht:"
+msgstr "Ndriqimi i Hënës:"
 
 msgid "Rise:"
-msgstr "Aufgang:"
+msgstr "Agimi:"
 
 msgid "Set:"
-msgstr "Untergang:"
+msgstr "Prarimi:"
 
 msgid "Culmination:"
-msgstr "Kulmination:"
+msgstr "Kulminacioni:"
 
 msgid "Azimuth:"
 msgstr "Azimut:"
 
 msgid "Sun:"
-msgstr "Sonne:"
+msgstr "Dielli:"
 
 msgid "Mercury:"
-msgstr "Merkur:"
+msgstr "Merkuri:"
 
 msgid "Venus:"
-msgstr "Venus:"
+msgstr "Venusi:"
 
 msgid "Mars:"
-msgstr "Mars:"
+msgstr "Marsi:"
 
 msgid "Jupiter:"
-msgstr "Jupiter:"
+msgstr "Jupiteri:"
 
 msgid "Saturn:"
-msgstr "Saturn:"
+msgstr "Zaturni:"
 
 msgid "Uranus:"
-msgstr "Uranus:"
+msgstr "Uranusi:"
 
 msgid "Neptune:"
-msgstr "Neptun:"
+msgstr "Neptuni:"
 
 msgid "Moon:"
-msgstr "Mond:"
+msgstr "Hënëa:"
 
 msgid "Location:"
-msgstr "Standort:"
+msgstr "Lokacioni:"
 
 msgid "Timezone:"
-msgstr "Zeitzone:"
+msgstr "Koha lokale:"
 
 msgid "Latitude:"
-msgstr "Breitengrad:"
+msgstr "Shkalla e gjërsis:"
 
 msgid "Longitude:"
-msgstr "Längengrad:"
+msgstr "Shkalla e gjatësis:"
 
 msgid "Temperature:"
-msgstr "Temperatur:"
+msgstr "Temperatura:"
 
 msgid "Feels like:"
-msgstr "Gefühlt:"
+msgstr "Ndjeshmëria:"
 
 msgid "Humidity:"
-msgstr "Luftfeuchtigkeit:"
+msgstr "Lagështia e ajrit:"
 
 msgid "Chance precip:"
-msgstr "Niederschlagswahrscheinlichkeit:"
-
-msgid "Natural events:"
-msgstr "Naturereignisse:"
+msgstr "Mundësia për reshje:"
 
 msgid "Wind:"
-msgstr "Wind:"
+msgstr "Era:"
 
 msgid "Observation point:"
-msgstr "Beobachtungspunkt:"
+msgstr "Pika percjellëse:"
 
 msgid "Date:"
-msgstr "Datum:"
+msgstr "Data:"
 
 msgid "Day week:"
-msgstr "Wochentag:"
+msgstr "Dita javore:"
 
 #, python-format
 msgid "%s"
@@ -336,52 +333,42 @@ msgid ""
 "Z395874509364 \n"
 "E284580190260"
 msgstr ""
-"Погода MSN \n"
-"Разработчик: Sirius0103 \n"
-"Homepage: www.gisclub.tv \n"
-"Github: www.github.com/Sirius0103 \n"
-"\n"
-"Поблагодарить: \n"
-" \n"
-"R460680746216 \n"
-"Z395874509364 \n"
-"E284580190260"
 
 msgid "Config Weather MSN"
-msgstr "Weather MSN Config"
+msgstr "Konfigurimet Weather MSN"
 
 msgid "Close"
-msgstr "Schließen"
+msgstr "Mbylle"
 
 msgid "Save"
-msgstr "Speichern"
+msgstr "Ruaje"
 
 msgid "Search Location"
-msgstr "Standort Suchen"
+msgstr "Kërkimi i lokacionit"
 
 msgid "Enter text to search city"
-msgstr "Text button klicken, um die Stadt zu suchen"
+msgstr "Klikoni në butonin Tekst për të kërkuar Qytetin"
 
 msgid "Show Weather MSN in menu information:"
-msgstr "Wetter MSN in Menüinformationen anzeigen:"
+msgstr "Trego Wetter MSN në meny:"
 
 msgid "Scale of wind speed:"
-msgstr "Windgeschwindigkeitskala:"
+msgstr "Skala e shpejtësis së erës:"
 
 msgid "Scale of temperature:"
-msgstr "Temperaturskala:"
+msgstr "Skala e temperaturës:"
 
 msgid "Create converter in system:"
-msgstr "Konverter im System anlegen:"
+msgstr "Vendos konverterin në sistem:"
 
 msgid "Do you want to restart the GUI now ?"
-msgstr "Möchten Sie die GUI jetzt neu starten?"
+msgstr "Dëshironi ta rindizni paisjen tani?"
 
 msgid "Configuration is saved"
-msgstr "Konfiguration wird gespeichert"
+msgstr "Konfigurimet do të ruhen"
 
 msgid "Search Location Weather MSN"
-msgstr "Standort Suchen Weather MSN"
+msgstr "Kërkim i vendbanimit Weather MSN"
 
 msgid "Weather forecast, astronomical calculations"
-msgstr "Wettervorhersage, astronomische Berechnungen"
+msgstr "Parashikimi i motit, Llogaritje astronamike"
